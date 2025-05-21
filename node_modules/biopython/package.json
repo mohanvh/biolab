@@ -1,0 +1,25 @@
+{
+  "name": "biopython",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "DNA_sequence_1/**/*",
+    "Fastha_to_gen/**/*",
+    "PDB/**/*",
+    "multiple_sequence/**/*",
+    "Entrez/**/*",
+    "Genbank_file/**/*",
+    "Pairwise/**/*",
+    "Fastha_file/**/*",
+    "Lab_BioInformatics_manual_updated[1].pdf",
+    "SeqRecord/**/*",
+    "phylogenetic_tree/**/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+LOCUS       example                   15 bp    DNA              UNK 01-JAN-1980
+DEFINITION  example description.
+ACCESSION   seq
+VERSION     seq
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 atgcatcgaa tcaga
+//
